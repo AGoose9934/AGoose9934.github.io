@@ -1,0 +1,26 @@
+
+body {
+
+
+    text-align: center;
+
+
+}
+
+img {
+
+    border-radius: 100%;
+    padding: 15px;
+
+
+}
+
+#line {
+
+
+    border-bottom-color: #222222;
+    border-bottom-width: 5px;
+    border-bottom-style: dashed;
+    margin-bottom: 15px;
+
+}
